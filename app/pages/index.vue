@@ -44,7 +44,7 @@
             <div class="bg-gray-100 p-6 rounded-xl shadow-sm">
                 <h2 class="font-bold text-lg mb-2">日頃の交流に参加する</h2>
                 <p>日頃の交流はDiscordサーバーで行っています。</p>
-                <a href="#"
+                <a href="https://discord.gg/uW4XTB2p8y"
                     class="font-extrabold text-blue-600 hover:text-pink-600 hover:border-b hover:border-pink-600">https://discord.gg/uW4XTB2p8y</a>
                 <p>（東葛.dev内にIchikawa.devのカテゴリーとチャンネルがあります。）</p>
             </div>
